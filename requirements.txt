@@ -1,0 +1,6 @@
+psycopg2-binary
+pandas
+spotipy
+matplotlib
+schedule
+python-dotenv
